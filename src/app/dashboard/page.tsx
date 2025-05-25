@@ -38,6 +38,13 @@ export default function Dashboard() {
               </button>
               
               <Link 
+                href="/ai-analytics"
+                className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-2 rounded-lg transition-colors font-semibold"
+              >
+                🤖 AI Analytics
+              </Link>
+              
+              <Link 
                 href="/"
                 className="bg-gray-500 hover:bg-gray-600 text-white px-6 py-2 rounded-lg transition-colors"
               >

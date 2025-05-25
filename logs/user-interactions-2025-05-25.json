@@ -591,5 +591,1729 @@
     },
     "sessionId": "session_1748175273018_eyyvr1bx2",
     "serverTimestamp": "2025-05-25T12:19:22.244Z"
+  },
+  {
+    "timestamp": "2025-05-25T13:31:15.107Z",
+    "elementType": "button",
+    "elementText": "❤️ Like (0)",
+    "elementId": "like-btn",
+    "elementClass": "bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 624,
+      "y": 592
+    },
+    "sessionId": "session_1748175562460_4ltgogq6r",
+    "serverTimestamp": "2025-05-25T13:31:15.251Z"
+  },
+  {
+    "timestamp": "2025-05-25T13:31:15.508Z",
+    "elementType": "button",
+    "elementText": "📤 Share",
+    "elementId": "share-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 593
+    },
+    "sessionId": "session_1748175562460_4ltgogq6r",
+    "serverTimestamp": "2025-05-25T13:31:15.606Z"
+  },
+  {
+    "timestamp": "2025-05-25T13:31:17.779Z",
+    "elementType": "button",
+    "elementText": "🔔 Subscribe",
+    "elementId": "subscribe-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 909,
+      "y": 601
+    },
+    "sessionId": "session_1748175562460_4ltgogq6r",
+    "serverTimestamp": "2025-05-25T13:31:17.879Z"
+  },
+  {
+    "timestamp": "2025-05-25T13:35:15.888Z",
+    "elementType": "button",
+    "elementText": "❤️ Like (1)",
+    "elementId": "like-btn",
+    "elementClass": "bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 631,
+      "y": 653
+    },
+    "sessionId": "session_1748175562460_4ltgogq6r",
+    "serverTimestamp": "2025-05-25T13:35:16.073Z"
+  },
+  {
+    "timestamp": "2025-05-25T13:35:16.104Z",
+    "elementType": "button",
+    "elementText": "❤️ Like (2)",
+    "elementId": "like-btn",
+    "elementClass": "bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 631,
+      "y": 653
+    },
+    "sessionId": "session_1748175562460_4ltgogq6r",
+    "serverTimestamp": "2025-05-25T13:35:16.268Z"
+  },
+  {
+    "timestamp": "2025-05-25T13:35:29.968Z",
+    "elementType": "button",
+    "elementText": "❤️ Like (3)",
+    "elementId": "like-btn",
+    "elementClass": "bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/about",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 617,
+      "y": 665
+    },
+    "sessionId": "session_1748175562460_4ltgogq6r",
+    "serverTimestamp": "2025-05-25T13:35:30.110Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:01:49.187Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 790,
+      "y": 228
+    },
+    "sessionId": "session_1748181702231_js3h1oyz4",
+    "serverTimestamp": "2025-05-25T14:01:49.370Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:01:49.188Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 790,
+      "y": 228
+    },
+    "sessionId": "session_1748181702233_bd7bfmvmu",
+    "serverTimestamp": "2025-05-25T14:01:49.380Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:01:54.276Z",
+    "elementType": "button",
+    "elementText": "Try Again",
+    "elementClass": "mt-6 bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/ai-analytics",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 797,
+      "y": 377
+    },
+    "sessionId": "session_1748181711372_92iyojt0g",
+    "serverTimestamp": "2025-05-25T14:01:54.410Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:01:58.358Z",
+    "elementType": "button",
+    "elementText": "Try Again",
+    "elementClass": "mt-6 bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/ai-analytics",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 764,
+      "y": 393
+    },
+    "sessionId": "session_1748181711372_92iyojt0g",
+    "serverTimestamp": "2025-05-25T14:01:58.540Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:43.543Z",
+    "elementType": "button",
+    "elementText": "Clicked 0 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.161Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:43.727Z",
+    "elementType": "button",
+    "elementText": "Clicked 1 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.183Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:43.882Z",
+    "elementType": "button",
+    "elementText": "Clicked 2 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.202Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:43.543Z",
+    "elementType": "button",
+    "elementText": "Clicked 0 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:44.229Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.005Z",
+    "elementType": "button",
+    "elementText": "Clicked 3 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:44.401Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.006Z",
+    "elementType": "button",
+    "elementText": "Clicked 3 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.411Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.202Z",
+    "elementType": "button",
+    "elementText": "Clicked 4 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:44.426Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.203Z",
+    "elementType": "button",
+    "elementText": "Clicked 4 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.438Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.550Z",
+    "elementType": "button",
+    "elementText": "Clicked 5 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.656Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.549Z",
+    "elementType": "button",
+    "elementText": "Clicked 5 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:44.667Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.679Z",
+    "elementType": "button",
+    "elementText": "Clicked 6 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:44.794Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.679Z",
+    "elementType": "button",
+    "elementText": "Clicked 6 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.803Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.800Z",
+    "elementType": "button",
+    "elementText": "Clicked 7 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:44.922Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.800Z",
+    "elementType": "button",
+    "elementText": "Clicked 7 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:44.933Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.925Z",
+    "elementType": "button",
+    "elementText": "Clicked 8 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.054Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:44.925Z",
+    "elementType": "button",
+    "elementText": "Clicked 8 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.064Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.047Z",
+    "elementType": "button",
+    "elementText": "Clicked 9 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.169Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.048Z",
+    "elementType": "button",
+    "elementText": "Clicked 9 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.181Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.172Z",
+    "elementType": "button",
+    "elementText": "Clicked 10 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.286Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.173Z",
+    "elementType": "button",
+    "elementText": "Clicked 10 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.293Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.311Z",
+    "elementType": "button",
+    "elementText": "Clicked 11 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.425Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.311Z",
+    "elementType": "button",
+    "elementText": "Clicked 11 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.435Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.453Z",
+    "elementType": "button",
+    "elementText": "Clicked 12 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.563Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.454Z",
+    "elementType": "button",
+    "elementText": "Clicked 12 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.573Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.573Z",
+    "elementType": "button",
+    "elementText": "Clicked 13 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.705Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.574Z",
+    "elementType": "button",
+    "elementText": "Clicked 13 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.716Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.700Z",
+    "elementType": "button",
+    "elementText": "Clicked 14 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.831Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.699Z",
+    "elementType": "button",
+    "elementText": "Clicked 14 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.847Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.823Z",
+    "elementType": "button",
+    "elementText": "Clicked 15 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:45.966Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.824Z",
+    "elementType": "button",
+    "elementText": "Clicked 15 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:45.973Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.947Z",
+    "elementType": "button",
+    "elementText": "Clicked 16 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.072Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:45.946Z",
+    "elementType": "button",
+    "elementText": "Clicked 16 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.091Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.062Z",
+    "elementType": "button",
+    "elementText": "Clicked 17 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.186Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.062Z",
+    "elementType": "button",
+    "elementText": "Clicked 17 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.198Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.201Z",
+    "elementType": "button",
+    "elementText": "Clicked 18 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.312Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.201Z",
+    "elementType": "button",
+    "elementText": "Clicked 18 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.334Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.314Z",
+    "elementType": "button",
+    "elementText": "Clicked 19 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.445Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.315Z",
+    "elementType": "button",
+    "elementText": "Clicked 19 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.464Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.438Z",
+    "elementType": "button",
+    "elementText": "Clicked 20 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.569Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.438Z",
+    "elementType": "button",
+    "elementText": "Clicked 20 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.579Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.562Z",
+    "elementType": "button",
+    "elementText": "Clicked 21 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.689Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.561Z",
+    "elementType": "button",
+    "elementText": "Clicked 21 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.698Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.716Z",
+    "elementType": "button",
+    "elementText": "Clicked 22 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.829Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.715Z",
+    "elementType": "button",
+    "elementText": "Clicked 22 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.848Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.839Z",
+    "elementType": "button",
+    "elementText": "Clicked 23 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:46.953Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.838Z",
+    "elementType": "button",
+    "elementText": "Clicked 23 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:46.962Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.961Z",
+    "elementType": "button",
+    "elementText": "Clicked 24 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:47.096Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:46.962Z",
+    "elementType": "button",
+    "elementText": "Clicked 24 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:47.132Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.091Z",
+    "elementType": "button",
+    "elementText": "Clicked 25 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:47.265Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.092Z",
+    "elementType": "button",
+    "elementText": "Clicked 25 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:47.281Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.209Z",
+    "elementType": "button",
+    "elementText": "Clicked 26 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:47.359Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.209Z",
+    "elementType": "button",
+    "elementText": "Clicked 26 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:47.370Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.330Z",
+    "elementType": "button",
+    "elementText": "Clicked 27 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:47.477Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.331Z",
+    "elementType": "button",
+    "elementText": "Clicked 27 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:47.489Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.452Z",
+    "elementType": "button",
+    "elementText": "Clicked 28 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:47.594Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.452Z",
+    "elementType": "button",
+    "elementText": "Clicked 28 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:47.613Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.575Z",
+    "elementType": "button",
+    "elementText": "Clicked 29 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:47.705Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:47.576Z",
+    "elementType": "button",
+    "elementText": "Clicked 29 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 491,
+      "y": 442
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:47.716Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:50.860Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 723,
+      "y": 445
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:50.970Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:50.860Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 723,
+      "y": 445
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:50.982Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:51.714Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 753,
+      "y": 528
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:51.820Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:51.715Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 753,
+      "y": 528
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:51.829Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:51.903Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 753,
+      "y": 528
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:52.016Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:51.903Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 753,
+      "y": 528
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:52.025Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:52.083Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 753,
+      "y": 528
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:52.179Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:52.084Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 753,
+      "y": 528
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:52.186Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:53.302Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 514
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:53.435Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:53.303Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 514
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:53.442Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:53.475Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 514
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:53.587Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:53.476Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 514
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:53.597Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:53.593Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 514
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:24:53.714Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:24:53.594Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 736,
+      "y": 514
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:24:53.721Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:25:20.432Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 741,
+      "y": 230
+    },
+    "sessionId": "session_1748183081932_n42ytg2fo",
+    "serverTimestamp": "2025-05-25T14:25:20.566Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:25:20.433Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 741,
+      "y": 230
+    },
+    "sessionId": "session_1748183081939_7dbl8oidd",
+    "serverTimestamp": "2025-05-25T14:25:20.579Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:26:29.467Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 803,
+      "y": 224
+    },
+    "sessionId": "session_1748183160547_yof0ta4k9",
+    "serverTimestamp": "2025-05-25T14:26:29.684Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:26:29.466Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 803,
+      "y": 224
+    },
+    "sessionId": "session_1748183160496_fy4i8p4gs",
+    "serverTimestamp": "2025-05-25T14:26:29.705Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:37:00.902Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 772,
+      "y": 207
+    },
+    "sessionId": "session_1748183815498_1nwt6oxiu",
+    "serverTimestamp": "2025-05-25T14:37:03.030Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:37:00.901Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 772,
+      "y": 207
+    },
+    "sessionId": "session_1748183815492_hnlgbqdyx",
+    "serverTimestamp": "2025-05-25T14:37:03.103Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:37:04.275Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 810,
+      "y": 213
+    },
+    "sessionId": "session_1748183815498_1nwt6oxiu",
+    "serverTimestamp": "2025-05-25T14:37:04.767Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:37:04.274Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 810,
+      "y": 213
+    },
+    "sessionId": "session_1748183815492_hnlgbqdyx",
+    "serverTimestamp": "2025-05-25T14:37:04.782Z"
+  },
+  {
+    "timestamp": "2025-05-25T14:37:46.615Z",
+    "elementType": "button",
+    "elementText": "🔄 Refresh Analysis",
+    "elementClass": "bg-purple-600 hover:bg-purple-700 text-white px-6 py-2 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/ai-analytics",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 929,
+      "y": 171
+    },
+    "sessionId": "session_1748183824975_2i8utmitb",
+    "serverTimestamp": "2025-05-25T14:37:46.797Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:21.473Z",
+    "elementType": "button",
+    "elementText": "Clicked 1 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 469,
+      "y": 443
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:22.272Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:21.472Z",
+    "elementType": "button",
+    "elementText": "Clicked 1 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 469,
+      "y": 443
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:22.311Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:22.386Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 752,
+      "y": 457
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:22.584Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:22.386Z",
+    "elementType": "button",
+    "elementText": "Show Alert",
+    "elementId": "alert-btn",
+    "elementClass": "bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 752,
+      "y": 457
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:22.607Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:23.197Z",
+    "elementType": "div",
+    "elementText": "Custom .btn Class",
+    "elementClass": "btn bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors cursor-pointer inline-block",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 786,
+      "y": 627
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:23.460Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:23.196Z",
+    "elementType": "div",
+    "elementText": "Custom .btn Class",
+    "elementClass": "btn bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors cursor-pointer inline-block",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 786,
+      "y": 627
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:23.484Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:23.919Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 428,
+      "y": 648
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:24.174Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:23.943Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 428,
+      "y": 648
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:24.201Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:24.317Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 445,
+      "y": 647
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:24.522Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:24.318Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 445,
+      "y": 647
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:24.538Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:24.553Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 445,
+      "y": 647
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:24.772Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:24.554Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 445,
+      "y": 647
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:24.789Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:24.876Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 452,
+      "y": 645
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:25.074Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:24.877Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 452,
+      "y": 645
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:25.087Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:25.107Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 452,
+      "y": 645
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:25.298Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:25.108Z",
+    "elementType": "a",
+    "elementText": "Link as Button",
+    "elementClass": "inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 452,
+      "y": 645
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:25.310Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:26.183Z",
+    "elementType": "button",
+    "elementText": "Button withNested Elements",
+    "elementClass": "bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 1032,
+      "y": 575
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:26.346Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:26.183Z",
+    "elementType": "button",
+    "elementText": "Button withNested Elements",
+    "elementClass": "bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 1032,
+      "y": 575
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:26.365Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:26.378Z",
+    "elementType": "button",
+    "elementText": "Button withNested Elements",
+    "elementClass": "bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 1032,
+      "y": 575
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:26.578Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:26.378Z",
+    "elementType": "button",
+    "elementText": "Button withNested Elements",
+    "elementClass": "bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 1032,
+      "y": 575
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:26.600Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:42.830Z",
+    "elementType": "button",
+    "elementText": "Clicked 2 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 508,
+      "y": 441
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:44.737Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:42.830Z",
+    "elementType": "button",
+    "elementText": "Clicked 2 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 508,
+      "y": 441
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:44.791Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:43.005Z",
+    "elementType": "button",
+    "elementText": "Clicked 3 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 508,
+      "y": 441
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:44.823Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:43.004Z",
+    "elementType": "button",
+    "elementText": "Clicked 3 times",
+    "elementId": "counter-btn",
+    "elementClass": "bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 508,
+      "y": 441
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:44.848Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:55.616Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 796,
+      "y": 219
+    },
+    "sessionId": "session_1748186358166_6ccx6vkv1",
+    "serverTimestamp": "2025-05-25T15:19:55.780Z"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:55.617Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/#",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 796,
+      "y": 219
+    },
+    "sessionId": "session_1748186358175_poa1u8hr9",
+    "serverTimestamp": "2025-05-25T15:19:55.801Z"
   }
 ]

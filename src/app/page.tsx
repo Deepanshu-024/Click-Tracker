@@ -62,6 +62,12 @@ export default function Home() {
                 Dashboard →
               </Link>
               <Link 
+                href="/ai-analytics"
+                className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold"
+              >
+                🤖 AI Analytics
+              </Link>
+              <Link 
                 href="/test"
                 className="bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-lg transition-colors"
               >
