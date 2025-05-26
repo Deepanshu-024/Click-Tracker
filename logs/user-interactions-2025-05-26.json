@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2025-05-26T17:26:26.675Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 805,
+      "y": 213
+    },
+    "sessionId": "session_1748280384331_zizv2xbq0",
+    "serverTimestamp": "2025-05-26T17:26:28.254Z"
+  },
+  {
+    "timestamp": "2025-05-26T17:26:26.672Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 805,
+      "y": 213
+    },
+    "sessionId": "session_1748280384317_2eyj1asqe",
+    "serverTimestamp": "2025-05-26T17:26:28.288Z"
+  },
+  {
+    "timestamp": "2025-05-26T17:26:38.788Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 780,
+      "y": 212
+    },
+    "sessionId": "session_1748280397582_akjnuu3v2",
+    "serverTimestamp": "2025-05-26T17:26:39.000Z"
+  },
+  {
+    "timestamp": "2025-05-26T17:26:38.788Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 780,
+      "y": 212
+    },
+    "sessionId": "session_1748280397628_u1eyqqqtv",
+    "serverTimestamp": "2025-05-26T17:26:39.021Z"
+  },
+  {
+    "timestamp": "2025-05-26T17:28:19.643Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 733,
+      "y": 257
+    },
+    "sessionId": "session_1748280405042_hl3ijgfx3",
+    "serverTimestamp": "2025-05-26T17:28:19.750Z"
+  },
+  {
+    "timestamp": "2025-05-26T17:28:19.643Z",
+    "elementType": "a",
+    "elementText": "🤖 AI Analytics",
+    "elementClass": "bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold",
+    "pageUrl": "http://localhost:3000/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "coordinates": {
+      "x": 733,
+      "y": 257
+    },
+    "sessionId": "session_1748280405082_ybf0o8f63",
+    "serverTimestamp": "2025-05-26T17:28:19.761Z"
+  }
+]

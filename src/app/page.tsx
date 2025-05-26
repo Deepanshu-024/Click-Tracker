@@ -48,30 +48,32 @@ export default function Home() {
             </p>
             
             {/* Navigation */}
-            <div className="flex gap-4 justify-center mt-6 flex-wrap">
-              <Link 
-                href="/about"
-                className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg transition-colors"
-              >
-                About Page →
-              </Link>
-              <Link 
-                href="/dashboard"
-                className="bg-purple-500 hover:bg-purple-600 text-white px-6 py-3 rounded-lg transition-colors"
-              >
-                Dashboard →
-              </Link>
+            <div className="flex flex-col items-center gap-4 mt-6">
+              <div className="flex gap-4 justify-center flex-wrap">
+                <Link 
+                  href="/about"
+                  className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg transition-colors"
+                >
+                  About Page →
+                </Link>
+                <Link 
+                  href="/dashboard"
+                  className="bg-purple-500 hover:bg-purple-600 text-white px-6 py-3 rounded-lg transition-colors"
+                >
+                  Dashboard →
+                </Link>
+                <Link 
+                  href="/test"
+                  className="bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-lg transition-colors"
+                >
+                  🧪 Test Navigation Tracking
+                </Link>
+              </div>
               <Link 
                 href="/ai-analytics"
                 className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white px-6 py-3 rounded-lg transition-colors font-semibold"
               >
                 🤖 AI Analytics
-              </Link>
-              <Link 
-                href="/test"
-                className="bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-lg transition-colors"
-              >
-                🧪 Test Navigation Tracking
               </Link>
             </div>
           </header>
